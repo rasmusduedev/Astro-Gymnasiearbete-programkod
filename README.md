@@ -29,10 +29,10 @@ This entire project was made (is currently being made) for a school project, so 
 
 ## Installation and running
 ### Dependencies
-You will need the following python packages
+You will need the following python packages:
 - `Taichi`
 - `matplotlib`
 - `numpy`
 ### Installation
-1. Install the dependencies above first: `pip install taichi matplotlib numpy`
+1. Install the dependencies: `pip install taichi matplotlib numpy`
 2. Copy the repository: `git clone https://github.com/rasmusduedev/Astro-Gymnasiearbete-programkod.git`
