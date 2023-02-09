@@ -4,7 +4,7 @@
 
 
 A simulations program for solving the euler equations of motion for a fluid in 2D-spherical coordinates. 
-As of yet I am still developing the source code, adding features to it etc. It's currently bit of a mess, so I'll only upload the code that is completely finished. You'll notice that many of the separate projects/simulations/examples contain the same files. That's just me being a bit lazy with the file structure, managing each part of the code separately. Sometime in the future I'll reorganize everything to look a bit nicer, optimize and improve file structure.
+As of yet I am still developing the source code, adding features to it etc. It's currently bit of a mess, so I'll only upload the code that is _completely finished_. You'll notice that many of the separate projects/simulations/examples contain the same files. That's just me being a bit lazy with the file structure, managing each part of the code separately. Sometime in the future I'll reorganize everything to look a bit nicer, optimize and improve file structure.
 
 The code is written entirely in Taichi, a python-embedded language that makes it possible to write parallelized code running on the graphics card, yielding much, much faster runtimes for applications that lends themselves well to `for` loops, like multicell simulations. 
 
@@ -30,9 +30,9 @@ This entire project was made (is currently being made) for a school project, so 
 ## Installation and running
 ###### Dependencies
 You will need the following python packages
-- Taichi
-- matplotlib
-- numpy
+- `Taichi`
+- `matplotlib`
+- `numpy`
 ###### Installation
 1. Install the dependencies above first: `pip install taichi matplotlib numpy`
 2. Copy the repository: `git clone https://github.com/rasmusduedev/Astro-Gymnasiearbete-programkod.git`
