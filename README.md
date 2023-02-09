@@ -20,7 +20,7 @@ This entire project was made (is currently being made) for a school project, so 
 - Custom unit conversion (in case the numbers involved become to great for the computer to handle accurately, will have to edit manually)
 - Large scale simulation!
 
-###### To-do
+### To-do
 - Fusion!
 - Quantum mechanical phenomena (electron degeneracy pressure for example)
 - Photon- and ideal gas mixture
@@ -28,11 +28,11 @@ This entire project was made (is currently being made) for a school project, so 
 - Temperature diffusion
 
 ## Installation and running
-###### Dependencies
+### Dependencies
 You will need the following python packages
 - `Taichi`
 - `matplotlib`
 - `numpy`
-###### Installation
+### Installation
 1. Install the dependencies above first: `pip install taichi matplotlib numpy`
 2. Copy the repository: `git clone https://github.com/rasmusduedev/Astro-Gymnasiearbete-programkod.git`
