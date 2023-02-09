@@ -52,7 +52,7 @@ U_half_timestep = ti.Vector.field(4, ti.f32, grid)
 
 
 ######## Other variable fields for species ###########
-species_m = ti.field(ti.f32, species)      # atomic mass of each species, expressed in the same mass unit as density
+species_m = ti.field(ti.f32, species)      # atomic mass of each species, expressed in atomic mass units u
 adiabatic = ti.field(ti.f32, species)      # The adiabatic index for each species
 gamma = ti.field(ti.f32, grid)             # Effective value of gamma in each cell for every iteration. Differs between cells because a difference in mass
 average_m = ti.field(ti.f32, grid)         # average particle mass in each cell
