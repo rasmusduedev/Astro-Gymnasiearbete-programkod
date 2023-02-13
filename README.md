@@ -19,9 +19,9 @@ This entire project was made (is currently being made) for a school project, so 
 - Newtonian, spherically symmetric, gravity
 - Custom unit conversion (in case the numbers involved become to great for the computer to handle accurately, will have to edit manually)
 - Large scale simulation!
+- proton-proton chain, Branch I fusion scheme
 
 ### To-do
-- Fusion!
 - Quantum mechanical phenomena (electron degeneracy pressure for example)
 - Photon- and ideal gas mixture
 - Urca processes
