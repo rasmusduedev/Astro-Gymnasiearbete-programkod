@@ -8,7 +8,7 @@ As of yet I am still developing the source code, adding features to it etc. It's
 
 The code is written entirely in Taichi, a python-embedded language that makes it possible to write parallelized code running on the graphics card, yielding much, much faster runtimes for applications that lends themselves well to `for` loops, like multicell simulations. 
 
-This entire project was made (is currently being made) for a school project, so if you just happened to find this page...well I didn't really have external users in mind so apologies if you don't find it user-friendly.
+All of this is part of a school project of mine, so I didn't really have external users in mind. In the rare case that you happened to find this page by random; apologies if you don't find it user-friendly.
 
 ## Current Features:
 - 2D-Spherical coordinates
@@ -26,6 +26,7 @@ This entire project was made (is currently being made) for a school project, so 
 - Photon- and ideal gas mixture
 - Urca processes
 - Temperature diffusion
+- Make the code more modular
 
 ## Installation and running
 ### Dependencies
