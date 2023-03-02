@@ -17,7 +17,7 @@ All of this is part of a school project of mine, so I didn't really have externa
 - Simulation compatible with motion as described by special relativity
 - Multiple species of molecular/atomic gases, each with its own adiabatic index Γ
 - Newtonian, spherically symmetric, gravity
-- Custom unit conversion (in case the numbers involved become to great for the computer to handle accurately, will have to edit manually)
+- Custom unit conversion (in case the numbers involved become too great for the computer to handle accurately, will have to edit manually)
 - Large scale simulation!
 - proton-proton chain, Branch I fusion scheme
 
